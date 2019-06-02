@@ -1,4 +1,4 @@
-# Movie Database Application
+# Movie Collection Application
 As part of my Computer Science Degree, one of my assignments was to design and build a Java SwingUI app to create, store and filter a series of movies. The scope of this task was restricted in order to introduce SwingUI functionality at a beginner level and teach the MVC architecture.
 
 ### The Design Brief
