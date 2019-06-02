@@ -244,7 +244,7 @@ public class MovieCollectionView extends JPanel {
 		collectionLabel.setFont(this.getFont().deriveFont(22.0f));
 		collectionLabel.setIcon(icon);
 		collectionLabel.setLocation(15, 12);
-		collectionLabel.setSize(240, 40);
+		collectionLabel.setSize(260, 40);
 		this.add(collectionLabel);
 		// ---
 
