@@ -2,7 +2,11 @@
 As part of my Computer Science Degree, one of my assignments was to design and build a Java SwingUI app to create, store and filter a series of movies. The scope of this task was restricted in order to introduce SwingUI functionality at a beginner level and teach the MVC architecture.
 
 ### The Design Brief
-COMING SOON...
+* A movie consists of a title, director, genre, rating (one to five, inclusive), a release year (upcoming or in the past) and a comma-separated list of cast members. These are mandatory attributes when movies are added.
+* When closing the movie collection, it should be saved to a data file that reads restores the collection next time the application opens.
+* Users want to be able to filter through their collection by various means, including basic searches and more complex filtering. This should encompass but not be limited to selective date/rating range filtering and sorting.
+* Movies can exist multiple times and the user should be warned, if this is the case, when they add it to the collection.
+* Users must be able to remove movies from the collection.
 * Must be developed using Java in the [Eclipse IDE](https://www.eclipse.org).
 
 ## App Overview
