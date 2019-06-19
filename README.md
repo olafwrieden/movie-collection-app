@@ -1,5 +1,5 @@
 # Movie Collection Application
-As part of my Computer Science Degree, one of my assignments was to design and build a Java SwingUI app to create, store and filter a series of movies. The scope of this task was restricted in order to introduce SwingUI functionality at a beginner level and teach the MVC architecture.
+As part of my Computer Science Degree, one of my assignments was to design and build a Java [SwingUI](https://en.wikipedia.org/wiki/Swing_(Java)) app to create, store and filter a series of movies. The scope of this task was restricted in order to introduce SwingUI functionality at a beginner level and teach the MVC architecture.
 
 ### The Design Brief
 * A movie consists of a title, director, genre, rating (one to five, inclusive), a release year (upcoming or in the past) and a comma-separated list of cast members. These are mandatory attributes when movies are added.
