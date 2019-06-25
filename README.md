@@ -17,7 +17,7 @@ The *Main View* is the very first view presented to the user. It shows a collect
 ![Main View](/screenshots/main-view.png)
 
 #### Filtering / Searching
-We can filter our collection based on a simple search or a specific set of criteria.
+We can filter our collection based on a simple search or a specific criteria.
 
 Quick Search | Multi-criteria Filter
 :-------------------------:|:-------------------------:
@@ -29,4 +29,4 @@ Upon terminating the application, it's collection is saved into a *moviecollecti
 ![Data File](/screenshots/data-file.png)
 
 ### See something that can be improved?
-While this is not an active project of mine, I would love to hear from you. Feel free to submit a Pull Request if you can improve this repository or open an issue should you encounter a bug. 🐞
+While this is not an active project of mine, I would love to hear from you. Feel free to submit a Pull Request if you can improve this repository, or open an issue should you encounter a bug. 🐞
